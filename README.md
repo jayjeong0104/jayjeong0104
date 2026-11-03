@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, my name is Jay.
+I'm currently working on a typing game that enhances spelling memorization and rapid word recall, blending two open source games into one.
+I'm also encountering limitations data-wise and hardware-wise while building AI-based skin cancer detection. 
+Excited to build something fun and meaningful!
 
 <!--
 **jayjeong0104/jayjeong0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
